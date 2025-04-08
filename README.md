@@ -60,25 +60,25 @@ Happy Coding! 💻✨
             <td>mainajeremyk@gmail.com</td>
         </tr>
         <tr>
-            <td>Jeremy</td>
-            <td>1749</td>
-            <td>+254 790406611</td>
-            <td>mainajeremyk@gmail.com</td>
+            <td>Dedan</td>
+            <td>6567</td>
+            <td>+254 778406611</td>
+            <td>dedankim34@gmail.com</td>
         </tr>
-        <tr>  <td>Jeremy</td>
-            <td>1749</td>
-            <td>+254 790406611</td>
-            <td>mainajeremyk@gmail.com</td>
+        <tr>  <td>Julie</td>
+            <td>2223</td>
+            <td>+254 740485811</td>
+         <td>mainajulie78@gmail.com</td>
         </tr>
-        <tr>  <td>Jeremy</td>
-            <td>1749</td>
-            <td>+254 790406611</td>
-            <td>mainajeremyk@gmail.com</td>
+        <tr>  <td>Kim</td>
+            <td>1647</td>
+            <td>0781781919</td>
+            <td>dancanmekim@gmail.com</td>
         </tr>
-        <tr>  <td>Jeremy</td>
-            <td>1749</td>
-            <td>+254 790406611</td>
-            <td>mainajeremyk@gmail.com</td>
+        <tr>  <td>linus</td>
+            <td>1009</td>
+            <td>+254 786406819</td>
+            <td>linusmusau45@gmail.com</td>
         </tr>
        </tbody>
     </table>
@@ -95,7 +95,16 @@ Happy Coding! 💻✨
         <option>--select country--</option>
         <option value="Kenya">Kenya</option>
         <option value="Ghana">Ghana</option>
+        <option value="Nigeria">Nigeria</option>
     </select>
+    <br><br>
+    <label for="password">Password</label>
+    <input type="text"id="personal password"name="password"required>
+    <br><br>
+    <label for="gender">Gender</label>
+    <input type="radio"id="gender"name"=gender"value="female">
+    <input type="radio"id="gender"name"=gender"value="male">
+    <br><br>
     <label for"description">Describe yourself</label>
     <textarea id="description"name="description">
         
